@@ -12,13 +12,12 @@
 ![img](https://skillicons.dev/icons?i=git,github,netlify,visualstudio,vscode,postman,html,css,sass,bootstrap,tailwind,emotion,javascript,jquery,webpack,react,electron,cs)
 
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=gb-redRabit.gb-redRabit&left_color=firebrick&right_color=black"  />
-</div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gb-redRabit/gb-redRabit/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gb-redRabit/gb-redRabit/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gb-redRabit/gb-redRabit/output/github-contribution-grid-snake.svg">
 </picture>
 
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=gb-redRabit.gb-redRabit&left_color=firebrick&right_color=black"  />
+</div>
