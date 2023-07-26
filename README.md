@@ -16,4 +16,9 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=gb-redRabit.gb-redRabit&left_color=firebrick&right_color=black"  />
 </div>
 
-![snake gif](https://github.com/gb-redRabit/gb-redRabit/blob/output/github-contribution-grid-snake.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gb-redRabit/gb-redRabit/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gb-redRabit/gb-redRabit/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gb-redRabit/gb-redRabit/output/github-contribution-grid-snake.svg">
+</picture>
+
