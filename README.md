@@ -9,7 +9,7 @@
 </div>
 
 ## Skill 
-![img](https://skillicons.dev/icons?i=git,github,netlify,visualstudio,vscode,postman,html,css,sass,bootstrap,tailwind,emotion,javascript,jquery,webpack,react,electron,cs)
+![img](https://skillicons.dev/icons?i=git,github,netlify,visualstudio,vscode,postman,html,css,sass,bootstrap,tailwind,emotion,javascript,jquery,webpack,react,vue,vite,nodejs,express,electron,cs)
 
 
 <picture>
