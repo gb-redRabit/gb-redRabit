@@ -9,7 +9,7 @@
 </div>
 
 ## Skill 
-![img](https://go-skill-icons.vercel.app/api/icons?i=git,github,netlify,visualstudio,vscode,postman,html,css,sass,bootstrap,tailwind,emotion,javascript,jquery,webpack,babel,react,vue,electron,cs)
+![img](https://go-skill-icons.vercel.app/api/icons?i=github,vscode,html,css,sass,bootstrap,tailwind,javascript,jquery,webpack,babel,react,vue,electron)
 
 
 <picture>
