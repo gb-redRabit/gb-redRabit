@@ -1,6 +1,6 @@
 <!-- HERO SECTION -->
 <p align="center">
-  <img src="./github-header-image.png" width="120" alt="hero" />
+  <img src="./github-header-image.png"  alt="hero" />
 </p>
 <h1 align="center">Cześć, jestem <span style="color:#e95420;">gb-redRabit</span> 👋</h1>
 <p align="center">
