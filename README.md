@@ -115,6 +115,6 @@ Muzyka, gotowanie (szczególnie kuchnia azjatycka), gry karciane i planszowe —
 ## 📊 Statystyki GitHub
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=gb-redRabit&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5" height="130" style="vertical-align:top;" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=gb-redRabit&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5" height="135" style="vertical-align:top;" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gb-redRabit&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="250" style="vertical-align:top;" alt="languages graph"  />
 </div>
