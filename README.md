@@ -62,19 +62,19 @@
     <td align="center" style="padding:12px 18px">
       <a href="https://github.com/gb-redRabit/app-quize">
         <img src="https://raw.githubusercontent.com/gb-redRabit/app-quize/main/frontend/public/favicon.ico" width="72" height="72" style="border-radius:12px; box-shadow:0 10px 22px rgba(0,0,0,0.25);" alt="app-quize icon"/><br/>
-        <strong>app-quize</strong><br/><sub>Aplikacja quizowa — interaktywne quizy.</sub>
+        <strong>app-quize</strong>
       </a>
     </td>
     <td align="center" style="padding:12px 18px">
       <a href="https://github.com/gb-redRabit/nami">
         <img src="https://raw.githubusercontent.com/gb-redRabit/nami/98038b25810af7dcdd3a7737aab9d0df494484fb/resources/icon.png" width="72" height="72" style="border-radius:12px; box-shadow:0 10px 22px rgba(0,0,0,0.25);" alt="nami icon"/><br/>
-        <strong>nami</strong><br/><sub>Projekt frontend/backend — pełen stack.</sub>
+        <strong>nami</strong>
       </a>
     </td>
     <td align="center" style="padding:12px 18px">
       <a href="https://github.com/gb-redRabit/prompt-forge">
         <img src="https://raw.githubusercontent.com/gb-redRabit/prompt-forge/main/public/icon.png" width="72" height="72" style="border-radius:12px; box-shadow:0 10px 22px rgba(0,0,0,0.25);" alt="prompt-forge icon"/><br/>
-        <strong>prompt-forge</strong><br/><sub>Narzędzia do pracy z promptami / eksperymenty AI.</sub>
+        <strong>prompt-forge</strong><br/>
       </a>
     </td>
   </tr>
@@ -82,19 +82,19 @@
     <td align="center" style="padding:12px 18px">
       <a href="https://github.com/gb-redRabit/terminal">
         <img src="https://raw.githubusercontent.com/gb-redRabit/terminal/main/public/icon.png" width="72" height="72" style="border-radius:12px; box-shadow:0 10px 22px rgba(0,0,0,0.25);" alt="terminal icon"/><br/>
-        <strong>terminal</strong><br/><sub>Emulacja terminala / narzędzia CLI w UI.</sub>
+        <strong>terminal</strong><br/>
       </a>
     </td>
     <td align="center" style="padding:12px 18px">
       <a href="https://github.com/gb-redRabit/particles-js">
         <img src="https://raw.githubusercontent.com/gb-redRabit/particles-js/main/public/icon.png" width="72" height="72" style="border-radius:12px; box-shadow:0 10px 22px rgba(0,0,0,0.25);" alt="particles-js icon"/><br/>
-        <strong>particles-js</strong><br/><sub>Efekty cząstek i dekoracje do stron.</sub>
+        <strong>particles-js</strong>
       </a>
     </td>
     <td align="center" style="padding:12px 18px">
       <a href="https://github.com/gb-redRabit/Pokemon">
         <img src="https://raw.githubusercontent.com/gb-redRabit/Pokemon/main/public/icon.png" width="72" height="72" style="border-radius:12px; box-shadow:0 10px 22px rgba(0,0,0,0.25);" alt="pokemon icon"/><br/>
-        <strong>Pokemon</strong><br/><sub>Projekt gry / interaktywny front-end.</sub>
+        <strong>Pokemon</strong>
       </a>
     </td>
   </tr>
