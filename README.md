@@ -71,32 +71,6 @@
         <strong>nami</strong>
       </a>
     </td>
-    <td align="center" style="padding:12px 18px">
-      <a href="https://github.com/gb-redRabit/prompt-forge">
-        <img src="https://raw.githubusercontent.com/gb-redRabit/prompt-forge/main/public/icon.png" width="72" height="72" style="border-radius:12px; box-shadow:0 10px 22px rgba(0,0,0,0.25);" alt="prompt-forge icon"/><br/>
-        <strong>prompt-forge</strong><br/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding:12px 18px">
-      <a href="https://github.com/gb-redRabit/terminal">
-        <img src="https://raw.githubusercontent.com/gb-redRabit/terminal/main/public/icon.png" width="72" height="72" style="border-radius:12px; box-shadow:0 10px 22px rgba(0,0,0,0.25);" alt="terminal icon"/><br/>
-        <strong>terminal</strong><br/>
-      </a>
-    </td>
-    <td align="center" style="padding:12px 18px">
-      <a href="https://github.com/gb-redRabit/particles-js">
-        <img src="https://raw.githubusercontent.com/gb-redRabit/particles-js/main/public/icon.png" width="72" height="72" style="border-radius:12px; box-shadow:0 10px 22px rgba(0,0,0,0.25);" alt="particles-js icon"/><br/>
-        <strong>particles-js</strong>
-      </a>
-    </td>
-    <td align="center" style="padding:12px 18px">
-      <a href="https://github.com/gb-redRabit/Pokemon">
-        <img src="https://raw.githubusercontent.com/gb-redRabit/Pokemon/main/public/icon.png" width="72" height="72" style="border-radius:12px; box-shadow:0 10px 22px rgba(0,0,0,0.25);" alt="pokemon icon"/><br/>
-        <strong>Pokemon</strong>
-      </a>
-    </td>
   </tr>
 </table>
 
