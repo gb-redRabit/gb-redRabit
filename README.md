@@ -35,21 +35,16 @@
 ## 🔧 Umiejętności i technologie
 
 <div align="center">
-  <!-- pierwsza linia -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square" />&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square" />&nbsp;
   <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=fff&style=flat-square" />&nbsp;
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat-square" />&nbsp;
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=fff&style=flat-square" />
-</div>
-<div align="center" style="margin-top:6px;">
   <img src="https://img.shields.io/badge/daisyUI-FF69B4?logo=daisyui&logoColor=fff&style=flat-square" />&nbsp;
   <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat-square" />&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=222&style=flat-square" />&nbsp;
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=222&style=flat-square" />&nbsp;
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=fff&style=flat-square" />
-</div>
-<div align="center" style="margin-top:6px;">
   <img src="https://img.shields.io/badge/Electron-2B2E3A?logo=electron&logoColor=9FEAF9&style=flat-square" />&nbsp;
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=222&style=flat-square" />&nbsp;
   <img src="https://img.shields.io/badge/Babel-F9DC3E?logo=babel&logoColor=222&style=flat-square" />&nbsp;
