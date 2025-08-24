@@ -10,10 +10,11 @@
 </p>
 
 <!-- SNAKE ANIMATION -->
-<p align="center">
-  <!-- Uwaga: podmieniony przez workflow na czarny snake — patrz .github/workflows/snake.yml -->
-  <img src="https://raw.githubusercontent.com/gb-redRabit/gb-redRabit/output/github-contribution-grid-snake.svg" alt="snake animation" filter: drop-shadow(0 6px 18px rgba(0,0,0,0.45));" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gb-redRabit/gb-redRabit/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gb-redRabit/gb-redRabit/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gb-redRabit/gb-redRabit/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
