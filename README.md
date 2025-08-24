@@ -37,21 +37,6 @@
 
 ---
 
-#### 🧩 Polecane wtyczki i narzędzia dev:
-- **Prettier** (formatowanie kodu)
-- **ESLint** (linting JS/TS)
-- **Stylelint** (linting CSS/SASS)
-- **Husky** & **Commitlint** (git hooks, standaryzacja commitów)
-- **Jest** / **Vitest** (testy jednostkowe)
-- **Cypress** (end-to-end testing)
-- **React Router**, **Redux Toolkit**, **Pinia**
-- **Framer Motion**, **GSAP** (animacje)
-- **Prism.js** (highlighting kodu)
-- **dotenv** (zarządzanie zmiennymi środowiskowymi)
-- **darkreader** (tryb dark mode)
-
----
-
 ## 🚀 Najważniejsze projekty
 
 <table>
@@ -130,6 +115,6 @@ Muzyka, gotowanie (szczególnie kuchnia azjatycka), gry karciane i planszowe —
 ## 📊 Statystyki GitHub
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=gb-redRabit&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5" height="200" style="vertical-align:top;" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gb-redRabit&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="200" style="vertical-align:top;" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=gb-redRabit&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5" height="150" style="vertical-align:top;" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gb-redRabit&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" style="vertical-align:top;" alt="languages graph"  />
 </div>
