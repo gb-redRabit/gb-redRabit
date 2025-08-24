@@ -69,15 +69,12 @@
         <strong>app-quize</strong><br/><sub>Aplikacja quizowa — interaktywne quizy.</sub>
       </a>
     </td>
-
     <td align="center" style="padding:12px 18px">
       <a href="https://github.com/gb-redRabit/nami">
-        <!-- Używam bezpośredniego raw linku z commit SHA, dzięki temu obrazek powinien się wyświetlić pewnie -->
         <img src="https://raw.githubusercontent.com/gb-redRabit/nami/98038b25810af7dcdd3a7737aab9d0df494484fb/resources/icon.png" width="72" height="72" style="border-radius:12px; box-shadow:0 10px 22px rgba(0,0,0,0.25);" alt="nami icon"/><br/>
         <strong>nami</strong><br/><sub>Projekt frontend/backend — pełen stack.</sub>
       </a>
     </td>
-
     <td align="center" style="padding:12px 18px">
       <a href="https://github.com/gb-redRabit/prompt-forge">
         <img src="https://raw.githubusercontent.com/gb-redRabit/prompt-forge/main/public/icon.png" width="72" height="72" style="border-radius:12px; box-shadow:0 10px 22px rgba(0,0,0,0.25);" alt="prompt-forge icon"/><br/>
@@ -85,7 +82,6 @@
       </a>
     </td>
   </tr>
-
   <tr>
     <td align="center" style="padding:12px 18px">
       <a href="https://github.com/gb-redRabit/terminal">
@@ -93,14 +89,12 @@
         <strong>terminal</strong><br/><sub>Emulacja terminala / narzędzia CLI w UI.</sub>
       </a>
     </td>
-
     <td align="center" style="padding:12px 18px">
       <a href="https://github.com/gb-redRabit/particles-js">
         <img src="https://raw.githubusercontent.com/gb-redRabit/particles-js/main/public/icon.png" width="72" height="72" style="border-radius:12px; box-shadow:0 10px 22px rgba(0,0,0,0.25);" alt="particles-js icon"/><br/>
         <strong>particles-js</strong><br/><sub>Efekty cząstek i dekoracje do stron.</sub>
       </a>
     </td>
-
     <td align="center" style="padding:12px 18px">
       <a href="https://github.com/gb-redRabit/Pokemon">
         <img src="https://raw.githubusercontent.com/gb-redRabit/Pokemon/main/public/icon.png" width="72" height="72" style="border-radius:12px; box-shadow:0 10px 22px rgba(0,0,0,0.25);" alt="pokemon icon"/><br/>
@@ -122,33 +116,6 @@
 - Tailwind + daisyUI — szybki UI, gotowe komponenty  
 - Vite — szybki bundler dev / build  
 - Framer Motion / GSAP — animacje
-
----
-
-## 📌 Widżety i rekomendowane dodatki do README (wklej w README, gotowe)
-
-- GitHub streak + top languages (równe wymiary):
-```html
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=gb-redRabit&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=6" height="180" style="margin-right:12px; box-shadow:0 8px 24px rgba(0,0,0,0.35);" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gb-redRabit&locale=en&hide_title=true&layout=compact&card_width=360&langs_count=6&theme=dark&hide_border=false" height="180" style="box-shadow:0 8px 24px rgba(0,0,0,0.35);" alt="languages graph" />
-</div>
-```
-
-- Ogólne statystyki (card) i Trophy:
-```html
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gb-redRabit&show_icons=true&theme=dark&hide_border=false" height="140" style="margin-right:12px;" alt="github stats" />
-  <img src="https://github-profile-trophy.vercel.app/?username=gb-redRabit&theme=dark&margin-w=6" height="140" alt="trophy" />
-</div>
-```
-
-- Contribution Calendar (render aktywności):
-```html
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=gb-redRabit&theme=github" width="700" alt="contributions graph" />
-</p>
-```
 
 ---
 
