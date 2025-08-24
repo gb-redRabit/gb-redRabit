@@ -21,3 +21,119 @@
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=gb-redRabit.gb-redRabit&left_color=firebrick&right_color=black"  />
 </div>
+<!-- HERO SECTION -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gb-redRabit/gb-redRabit/main/assets/hero-rabbit.svg" width="120" alt="hero" />
+</p>
+<h1 align="center">Cześć, jestem <span style="color:#e95420;">gb-redRabit</span> 👋</h1>
+<p align="center">
+  <b>Technik informatyk</b> interesujący się frontendem i backendem.<br>
+  <i>Koduję, uczę się, eksperymentuję — od weba po desktop!</i>
+</p>
+
+<!-- SNAKE ANIMATION -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+## 🔧 Umiejętności i technologie
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
+![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=fff&style=flat)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=fff&style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=222&style=flat)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=flat)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=222&style=flat)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=fff&style=flat)
+![Electron](https://img.shields.io/badge/Electron-2B2E3A?logo=electron&logoColor=9FEAF9&style=flat)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=222&style=flat)
+![Babel](https://img.shields.io/badge/Babel-F9DC3E?logo=babel&logoColor=222&style=flat)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=fff&style=flat)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
+
+---
+
+## 🚀 Najważniejsze projekty
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/gb-redRabit/app-quize">
+        <b>app-quize</b><br>
+        <img src="https://raw.githubusercontent.com/gb-redRabit/app-quize/main/public/icon.png" width="70"><br>
+        <sub>Aplikacja quizowa — interaktywne quizy i logika oceniania.</sub>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/gb-redRabit/nami">
+        <b>nami</b><br>
+        <img src="https://raw.githubusercontent.com/gb-redRabit/nami/main/public/icon.png" width="70"><br>
+        <sub>Projekt frontend/backend — pełno-stackowe eksperymenty.</sub>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/gb-redRabit/prompt-forge">
+        <b>prompt-forge</b><br>
+        <img src="https://raw.githubusercontent.com/gb-redRabit/prompt-forge/main/public/icon.png" width="70"><br>
+        <sub>Narzędzia do pracy z promptami / eksperymenty AI.</sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/gb-redRabit/terminal">
+        <b>terminal</b><br>
+        <img src="https://raw.githubusercontent.com/gb-redRabit/terminal/main/public/icon.png" width="70"><br>
+        <sub>Emulacja terminala / narzędzia CLI w UI.</sub>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/gb-redRabit/particles-js">
+        <b>particles-js</b><br>
+        <img src="https://raw.githubusercontent.com/gb-redRabit/particles-js/main/public/icon.png" width="70"><br>
+        <sub>Efekty cząstek i dekoracyjne animacje do stron.</sub>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/gb-redRabit/Pokemon">
+        <b>Pokemon</b><br>
+        <img src="https://raw.githubusercontent.com/gb-redRabit/Pokemon/main/public/icon.png" width="70"><br>
+        <sub>Projekt gry / interaktywny projekt front-endowy.</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🎯 Co mnie wyróżnia
+
+- Praktyczne podejście: od projektu UI po implementację backendu.
+- Łączenie technologii webowych z aplikacjami desktopowymi (Electron).
+- Zainteresowanie optymalizacją frontendu i narzędziami buildującymi (Webpack, Babel).
+
+---
+
+## 🎧 Po pracy
+
+Muzyka, gotowanie (szczególnie kuchnia azjatycka), gry karciane i planszowe — to mnie relaksuje i inspiruje do projektów z fajnym UX.
+
+---
+
+## 💬 Ulubiony cytat
+
+> "Tylko dwie rzeczy są nieskończone: wszechświat oraz ludzka głupota, choć nie jestem pewien co do tej pierwszej."  
+> — Albert Einstein
+
+---
+
+## 📊 Statystyki GitHub
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=gb-redRabit&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gb-redRabit&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+</div>
