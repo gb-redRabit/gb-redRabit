@@ -10,7 +10,8 @@
 
 <!-- SNAKE ANIMATION -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <!-- Podmień na swój wygenerowany czarny snake, jeśli używasz workflow Platane/snk -->
+  <img src="https://raw.githubusercontent.com/gb-redRabit/gb-redRabit/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
@@ -41,14 +42,14 @@
     <td>
       <a href="https://github.com/gb-redRabit/app-quize">
         <b>app-quize</b><br>
-        <img src="https://raw.githubusercontent.com/gb-redRabit/app-quize/blob/main/frontend/public/favicon.ico" width="70"><br>
+        <img src="https://raw.githubusercontent.com/gb-redRabit/app-quize/main/frontend/public/favicon.ico" width="70"><br>
         <sub>Aplikacja quizowa — interaktywne quizy i logika oceniania.</sub>
       </a>
     </td>
     <td>
       <a href="https://github.com/gb-redRabit/nami">
         <b>nami</b><br>
-        <img src="https://raw.githubusercontent.com/gb-redRabit/nami/blob/master/resources/icon.png" width="70"><br>
+        <img src="https://raw.githubusercontent.com/gb-redRabit/nami/main/resources/icon.png" width="70"><br>
         <sub>Projekt frontend/backend — pełno-stackowe eksperymenty.</sub>
       </a>
     </td>
