@@ -10,7 +10,7 @@
 
 <!-- SNAKE ANIMATION -->
 <p align="center">
-  <!-- Podmień na swój wygenerowany czarny snake, jeśli używasz workflow Platane/snk -->
+  <!-- Czarny snake (upewnij się, że wygenerowałeś czarnego węża w swoim workflow Platane/snk) -->
   <img src="https://raw.githubusercontent.com/gb-redRabit/gb-redRabit/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
@@ -23,6 +23,8 @@
 ![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=fff&style=flat)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=fff&style=flat)
+![daisyUI](https://img.shields.io/badge/daisyUI-FF69B4?logo=daisyui&logoColor=fff&style=flat)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=222&style=flat)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=flat)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=222&style=flat)
@@ -35,6 +37,21 @@
 
 ---
 
+#### 🧩 Polecane wtyczki i narzędzia dev:
+- **Prettier** (formatowanie kodu)
+- **ESLint** (linting JS/TS)
+- **Stylelint** (linting CSS/SASS)
+- **Husky** & **Commitlint** (git hooks, standaryzacja commitów)
+- **Jest** / **Vitest** (testy jednostkowe)
+- **Cypress** (end-to-end testing)
+- **React Router**, **Redux Toolkit**, **Pinia**
+- **Framer Motion**, **GSAP** (animacje)
+- **Prism.js** (highlighting kodu)
+- **dotenv** (zarządzanie zmiennymi środowiskowymi)
+- **darkreader** (tryb dark mode)
+
+---
+
 ## 🚀 Najważniejsze projekty
 
 <table>
@@ -42,21 +59,22 @@
     <td>
       <a href="https://github.com/gb-redRabit/app-quize">
         <b>app-quize</b><br>
-        <img src="https://raw.githubusercontent.com/gb-redRabit/app-quize/main/frontend/public/favicon.ico" width="70"><br>
+        <img src="https://raw.githubusercontent.com/gb-redRabit/app-quize/main/frontend/public/favicon.ico" width="70" alt="app-quize icon"><br>
         <sub>Aplikacja quizowa — interaktywne quizy i logika oceniania.</sub>
       </a>
     </td>
     <td>
       <a href="https://github.com/gb-redRabit/nami">
         <b>nami</b><br>
-        <img src="https://raw.githubusercontent.com/gb-redRabit/nami/main/resources/icon.png" width="70"><br>
+        <!-- Poprawiona ścieżka do ikony -->
+        <img src="https://raw.githubusercontent.com/gb-redRabit/nami/main/resources/icon.png" width="70" alt="nami icon"><br>
         <sub>Projekt frontend/backend — pełno-stackowe eksperymenty.</sub>
       </a>
     </td>
     <td>
       <a href="https://github.com/gb-redRabit/prompt-forge">
         <b>prompt-forge</b><br>
-        <img src="https://raw.githubusercontent.com/gb-redRabit/prompt-forge/main/public/icon.png" width="70"><br>
+        <img src="https://raw.githubusercontent.com/gb-redRabit/prompt-forge/main/public/icon.png" width="70" alt="prompt-forge icon"><br>
         <sub>Narzędzia do pracy z promptami / eksperymenty AI.</sub>
       </a>
     </td>
@@ -65,21 +83,21 @@
     <td>
       <a href="https://github.com/gb-redRabit/terminal">
         <b>terminal</b><br>
-        <img src="https://raw.githubusercontent.com/gb-redRabit/terminal/main/public/icon.png" width="70"><br>
+        <img src="https://raw.githubusercontent.com/gb-redRabit/terminal/main/public/icon.png" width="70" alt="terminal icon"><br>
         <sub>Emulacja terminala / narzędzia CLI w UI.</sub>
       </a>
     </td>
     <td>
       <a href="https://github.com/gb-redRabit/particles-js">
         <b>particles-js</b><br>
-        <img src="https://raw.githubusercontent.com/gb-redRabit/particles-js/main/public/icon.png" width="70"><br>
+        <img src="https://raw.githubusercontent.com/gb-redRabit/particles-js/main/public/icon.png" width="70" alt="particles-js icon"><br>
         <sub>Efekty cząstek i dekoracyjne animacje do stron.</sub>
       </a>
     </td>
     <td>
       <a href="https://github.com/gb-redRabit/Pokemon">
         <b>Pokemon</b><br>
-        <img src="https://raw.githubusercontent.com/gb-redRabit/Pokemon/main/public/icon.png" width="70"><br>
+        <img src="https://raw.githubusercontent.com/gb-redRabit/Pokemon/main/public/icon.png" width="70" alt="pokemon icon"><br>
         <sub>Projekt gry / interaktywny projekt front-endowy.</sub>
       </a>
     </td>
@@ -112,6 +130,6 @@ Muzyka, gotowanie (szczególnie kuchnia azjatycka), gry karciane i planszowe —
 ## 📊 Statystyki GitHub
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=gb-redRabit&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gb-redRabit&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=gb-redRabit&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5" height="200" style="vertical-align:top;" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gb-redRabit&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="200" style="vertical-align:top;" alt="languages graph"  />
 </div>
