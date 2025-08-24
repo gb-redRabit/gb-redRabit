@@ -1,6 +1,6 @@
 <!-- HERO SECTION -->
 <p align="center">
-  <img src="./github-header-image.png" alt="hero" style="max-width:100%; border-radius:12px; box-shadow: 0 8px 30px rgba(0,0,0,0.35)"/>
+  <img src="./github-header-image.png" alt="hero"  border-radius:12px; box-shadow: 0 8px 30px rgba(0,0,0,0.35)"/>
 </p>
 
 <h1 align="center">Cześć, jestem <span style="color:#e95420;">gb-redRabit</span> 👋</h1>
@@ -12,7 +12,7 @@
 <!-- SNAKE ANIMATION -->
 <p align="center">
   <!-- Uwaga: podmieniony przez workflow na czarny snake — patrz .github/workflows/snake.yml -->
-  <img src="https://raw.githubusercontent.com/gb-redRabit/gb-redRabit/output/github-contribution-grid-snake.svg" alt="snake animation" style="max-width:100%; height:140px; filter: drop-shadow(0 6px 18px rgba(0,0,0,0.45));" />
+  <img src="https://raw.githubusercontent.com/gb-redRabit/gb-redRabit/output/github-contribution-grid-snake.svg" alt="snake animation" filter: drop-shadow(0 6px 18px rgba(0,0,0,0.45));" />
 </p>
 
 ---
@@ -103,19 +103,6 @@
     </td>
   </tr>
 </table>
-
----
-
-## 🧩 Polecane wtyczki / narzędzia developerskie
-
-- Prettier — automatyczne formatowanie kodu  
-- ESLint + Stylelint — statyczna analiza, spójność kodu  
-- Husky + Commitlint — hooki gitowe i konwencja commitów  
-- Vitest / Jest + Cypress — testy jednostkowe i e2e  
-- Redux Toolkit / Pinia — zarządzanie stanem  
-- Tailwind + daisyUI — szybki UI, gotowe komponenty  
-- Vite — szybki bundler dev / build  
-- Framer Motion / GSAP — animacje
 
 ---
 
