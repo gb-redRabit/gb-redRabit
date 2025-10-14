@@ -44,8 +44,13 @@
   <img src="https://img.shields.io/badge/daisyUI-FF69B4?logo=daisyui&logoColor=fff&style=flat-square" />&nbsp;
   <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat-square" />&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=222&style=flat-square" />&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-4FC08D?logo=vue.js&logoColor=fff&style=flat-square" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=222&style=flat-square" />&nbsp;
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=fff&style=flat-square" />
+  <img src="https://img.shields.io/badge/Nuxt.js-4FC08D?logo=Nuxt.js&logoColor=fff&style=flat-square" />
+  <img src="https://img.shields.io/badge/React.js-4FC08D?logo=React.js&logoColor=fff&style=flat-square" />
+  <img src="https://img.shields.io/badge/Node.js-4FC08D?logo=Node.js&logoColor=fff&style=flat-square" />
+  <img src="https://img.shields.io/badge/Express-4FC08D?logo=Express&logoColor=fff&style=flat-square" />
   <img src="https://img.shields.io/badge/Electron-2B2E3A?logo=electron&logoColor=9FEAF9&style=flat-square" />&nbsp;
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=222&style=flat-square" />&nbsp;
   <img src="https://img.shields.io/badge/Babel-F9DC3E?logo=babel&logoColor=222&style=flat-square" />&nbsp;
