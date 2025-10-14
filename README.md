@@ -47,8 +47,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat-square"/>
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=222&style=flat-square"/>&nbsp;
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=fff&style=flat-square"/>
-  <img src="https://img.shields.io/badge/Nuxt-00DC82?logo=nuxt.js&logoColor=fff&style=flat-square"/>
-  <img src="https://img.shields.io/badge/React_Router-F44250?logo=react-router&logoColor=fff&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Nuxt-00DC82?logo=nuxt&logoColor=fff&style=flat-square"/>
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff&style=flat-square"/>
   <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=flat-square"/>
   <img src="https://img.shields.io/badge/Electron-2B2E3A?logo=electron&logoColor=9FEAF9&style=flat-square"/>&nbsp;
