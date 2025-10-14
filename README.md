@@ -36,26 +36,26 @@
 ## 🔧 Umiejętności i technologie
 
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square" />&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square" />&nbsp;
-  <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=fff&style=flat-square" />&nbsp;
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat-square" />&nbsp;
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=fff&style=flat-square" />
-  <img src="https://img.shields.io/badge/daisyUI-FF69B4?logo=daisyui&logoColor=fff&style=flat-square" />&nbsp;
-  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat-square" />&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=222&style=flat-square" />&nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-4FC08D?logo=vue.js&logoColor=fff&style=flat-square" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=222&style=flat-square" />&nbsp;
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=fff&style=flat-square" />
-  <img src="https://img.shields.io/badge/Nuxt.js-4FC08D?logo=Nuxt.js&logoColor=fff&style=flat-square" />
-  <img src="https://img.shields.io/badge/React.js-4FC08D?logo=React.js&logoColor=fff&style=flat-square" />
-  <img src="https://img.shields.io/badge/Node.js-4FC08D?logo=Node.js&logoColor=fff&style=flat-square" />
-  <img src="https://img.shields.io/badge/Express-4FC08D?logo=Express&logoColor=fff&style=flat-square" />
-  <img src="https://img.shields.io/badge/Electron-2B2E3A?logo=electron&logoColor=9FEAF9&style=flat-square" />&nbsp;
-  <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=222&style=flat-square" />&nbsp;
-  <img src="https://img.shields.io/badge/Babel-F9DC3E?logo=babel&logoColor=222&style=flat-square" />&nbsp;
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=fff&style=flat-square" />&nbsp;
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat-square" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square" />&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square" />&nbsp;
+  <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=fff&style=flat-square" />&nbsp;
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat-square" />&nbsp;
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=fff&style=flat-square" />
+  <img src="https://img.shields.io/badge/daisyUI-5A1F5B?logo=daisyui&logoColor=fff&style=flat-square" />&nbsp;
+  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat-square" />&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=222&style=flat-square" />&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat-square" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=222&style=flat-square" />&nbsp;
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=fff&style=flat-square" />
+  <img src="https://img.shields.io/badge/Nuxt-00DC82?logo=nuxt.js&logoColor=fff&style=flat-square" />
+  <img src="https://img.shields.io/badge/React_Router-F44250?logo=react-router&logoColor=fff&style=flat-square" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff&style=flat-square" />
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=flat-square" />
+  <img src="https://img.shields.io/badge/Electron-2B2E3A?logo=electron&logoColor=9FEAF9&style=flat-square" />&nbsp;
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=222&style=flat-square" />&nbsp;
+  <img src="https://img.shields.io/badge/Babel-F9DC3E?logo=babel&logoColor=222&style=flat-square" />&nbsp;
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=fff&style=flat-square" />&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat-square" />
 </div>
 
 ---
