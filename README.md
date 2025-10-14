@@ -43,7 +43,6 @@
 ---
 
 ## 🔧 Umiejętności i technologie
-
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square"/>
@@ -65,6 +64,7 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=fff&style=flat-square"/>
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat-square"/>
 </div>
+
 
 ---
 
