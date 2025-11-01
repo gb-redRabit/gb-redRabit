@@ -86,7 +86,7 @@
     </td>
     <td align="center" style="padding:12px 18px">
       <a href="https://github.com/gb-redRabit/prompt-forge">
-        <img src="https://github.com/gb-redRabit/prompt-forge/blob/main/src/assets/logo.png?raw=true" width="72" height="72" style="border-radius:12px; box-shadow:0 10px 22px rgba(0,0,0,0.25);" />
+        <img src="https://github.com/gb-redRabit/prompt-forge/public/favicon.ico" width="72" height="72" style="border-radius:12px; box-shadow:0 10px 22px rgba(0,0,0,0.25);" />
         <strong>prompt-forge</strong>
       </a>
     </td>
